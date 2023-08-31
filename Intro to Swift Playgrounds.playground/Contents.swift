@@ -37,3 +37,19 @@ var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 
 print(mySeventhVariable)
 
+//Assignment #3 Intro to True and False
+
+var appState = false
+print(appState)
+
+//part 4
+//create 2 new variables of type int
+
+var typeInt = 4
+var typeInt2 = 5
+
+//we are going to create a statement that compares the 2 variables and assign it to a third variable
+
+var comparison = typeInt > typeInt2
+
+
