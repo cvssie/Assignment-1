@@ -21,6 +21,7 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//Part 10 on your own
 var myFourthVariable: String
 
 myFourthVariable = "First variable on my own"
@@ -52,4 +53,11 @@ var typeInt2 = 5
 
 var comparison = typeInt > typeInt2
 
+//part 7 on your own
+var equalTo = "This one"
 
+var equalTwo = " and this one"
+
+var equalThree = equalTo == equalTwo
+
+//part 8
