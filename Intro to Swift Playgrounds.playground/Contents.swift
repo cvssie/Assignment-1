@@ -59,5 +59,5 @@ var equalTo = "This one"
 var equalTwo = " and this one"
 
 var equalThree = equalTo == equalTwo
-
+print(equalThree)
 //part 8
